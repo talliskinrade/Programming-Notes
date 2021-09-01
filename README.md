@@ -23,19 +23,22 @@ Someone helped me with the code to add a new user, now just have to sort out the
 
 # 01/09/2021
 Have been working on getting all the calculations in my programme so that the value the user wants to find can be outputted. Think im going to have to change some of the formatting so that it works better with the expected inputs from the UI.
-    Things left to do on Calculator:
+<!--     Things left to do on Calculator:
         - the if statements to get it to work out all of the missing values
-        - change the if statement of all the functions to be "" rather than "?"
-    Things left to do on User Interface:
-        - setting the units and prefixes
-    Things left to do on Validation:
+        - change the if statement of all the functions to be "" rather than "?" -->
+    
+<!--     Things left to do on User Interface:
+        - setting the units and prefixes -->
+    
+<!--     Things left to do on Validation:
         - signup_val function, checking the username and password validity when student makes a new account
-        - check the User Interface/Login works with the validation
-    Things left to do on Simulator:
+        - check the User Interface/Login works with the validation -->
+    
+<!--     Things left to do on Simulator:
         - work out coordinates with Calculator
         - plot graph with matplotlib
         - get graph to appear in stages
-
+ -->
 
 
 
