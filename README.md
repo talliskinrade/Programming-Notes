@@ -32,6 +32,7 @@ Have been working on getting all the calculations in my programme so that the va
         - setting the units and prefixes
     
     Things left to do on Validation:
+        - Hash Password
         - signup_val function, checking the username and password validity when student makes a new account
         - check the User Interface/Login works with the validation
     
