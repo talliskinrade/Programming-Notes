@@ -42,5 +42,6 @@ Have been working on getting all the calculations in my programme so that the va
         - get graph to appear in stages
 
 
-
+# 15/12/2021
+Need to figure out how to get the data out of the Entry Frame in the User Interface. Maybe by adding them to a list and getting it to update? (Might need to ask abid). Problem is i've got a load of entry frames created by a a loop but idk how to access the data in them.
 
